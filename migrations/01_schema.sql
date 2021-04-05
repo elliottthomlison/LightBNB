@@ -1,12 +1,3 @@
--- unclear what this means
---varchar? why dont i have to specify afterwards (text, integer, etc.)
---what is the 255 in varchar
---when do i know to add not null
---delete cascade? cascade?
---not null integar required to add default 0?
---
-
-
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS properties CASCADE;
 DROP TABLE IF EXISTS reservations CASCADE;
